@@ -5,8 +5,8 @@ date:   2013-10-12 00:42:00
 categories: note
 ---
 
-Gepflegte Unterhaltungen via [E-Mail][e-mail], [Twitter][twitter] und [face-to-face][f2f] begrüße ich.
+Gepflegte Unterhaltungen via [E-Mail], [Twitter] und [face-to-face] begrüße ich.
 
-[e-mail]:	info@naii.de
-[twitter]:	https://twitter.com/naii
-[f2f]:	http://www.random.org/geographic-coordinates/
+[E-Mail]: info@naii.de
+[Twitter]: https://twitter.com/naii
+[face-to-face]: http://www.random.org/geographic-coordinates/
