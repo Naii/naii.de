@@ -7,6 +7,6 @@ categories: note
 
 Gepflegte Unterhaltungen via [E-Mail], [Twitter] und [face-to-face] begrüße ich.
 
-[E-Mail]: info@naii.de
+[E-Mail]: mailto:info@naii.de
 [Twitter]: https://twitter.com/naii
 [face-to-face]: http://www.random.org/geographic-coordinates/
